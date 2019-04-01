@@ -133,8 +133,8 @@ def login():
         return jsonify(errno=RET.DATAERR, msg=u'用户名或密码错误')
 
     # 保存登录状态到session
-    session['name'] = mobile
-    session['mobile'] = mobile
+    session['name'] = user.name
+    session['mobile'] = user.mobile
     session['user_id'] = user.id
     return jsonify(errno=RET.OK, msg=u'登录成功')
 
@@ -152,14 +152,3 @@ def check_login():
 def logout():
     session.clear()
     return jsonify(errno=RET.OK, msg='true')
-
-
-@api.route('/my', methods=['GET'])
-def my():
-    name = session.get('name')
-    mobile = session.get('mobile')
-    if all([name, mobile]):
-        return jsonify(errno=RET.OK, msg='true', data={'name': name, 'mobile': mobile})
-    else:
-        return jsonify(errno=RET.SESSIONERR, msg='false')
-

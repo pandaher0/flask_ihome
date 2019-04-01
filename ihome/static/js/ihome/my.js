@@ -21,11 +21,17 @@ function logout() {
 }
 
 $(document).ready(function(){
-    $.get('/api/v1.0/my',function (resp) {
+    $.get('/api/v1.0/user',function (resp) {
         if (resp.errno=='0'){
             $('.menu-text #user-name').html(resp.data.name);
             $('.menu-text #user-mobile').html(resp.data.mobile);
-
+            $('.menu-content #user-avatar').attr('src',resp.data.avatar)
+        }
+        else if (resp.errno=='4101'){
+            location.href = '/login.html'
+        }
+        else {
+            alert(resp.msg)
         }
     })
 

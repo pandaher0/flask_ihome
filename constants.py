@@ -11,3 +11,6 @@ ACCESS_NUM = 3
 
 # redis错误尝试记录有效期
 ERR_ACCESS_EXPIRE_TIME = 600
+
+# 七牛云域名地址
+QINIU_URL_DOMAIN = 'http://pp9g22fmy.bkt.clouddn.com/'
