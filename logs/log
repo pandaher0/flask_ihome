@@ -2310,3 +2310,624 @@ IOError: [Errno 0] Error
 2019-04-01 16:28:58,851: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 16:28:58] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
 2019-04-01 16:31:07,125: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\api_1_0\\__init__.py', reloading
 2019-04-01 16:31:07,187: INFO _internal.py:97  * Restarting with stat
+2019-04-01 16:31:11,851: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 16:31:11,973: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 16:31:12,022: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 16:32:17,019: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\api_1_0\\houses.py', reloading
+2019-04-01 16:32:17,089: INFO _internal.py:97  * Restarting with stat
+2019-04-01 16:32:22,709: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 16:32:22,805: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 16:32:22,844: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 16:35:18,115: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\api_1_0\\houses.py', reloading
+2019-04-01 16:35:18,210: INFO _internal.py:97  * Restarting with stat
+2019-04-01 16:35:23,707: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 16:35:23,812: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 16:35:23,859: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 16:38:31,821: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\models.py', reloading
+2019-04-01 16:38:31,897: INFO _internal.py:97  * Restarting with stat
+2019-04-01 16:38:37,019: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 16:38:37,144: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 16:38:37,197: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 16:39:06,410: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\models.py', reloading
+2019-04-01 16:39:06,473: INFO _internal.py:97  * Restarting with stat
+2019-04-01 16:40:41,017: INFO _internal.py:97  * Restarting with stat
+2019-04-01 16:40:45,250: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 16:40:45,345: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 16:40:45,385: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 16:41:00,961: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 16:41:00] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 16:45:20,266: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 16:45:20] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:01:46,848: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\api_1_0\\houses.py', reloading
+2019-04-01 17:01:46,908: INFO _internal.py:97  * Restarting with stat
+2019-04-01 17:01:51,299: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 17:01:51,401: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 17:01:51,443: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 17:10:55,851: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\constants.py', reloading
+2019-04-01 17:10:55,943: INFO _internal.py:97  * Restarting with stat
+2019-04-01 17:20:47,549: INFO _internal.py:97  * Restarting with stat
+2019-04-01 17:20:51,367: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 17:20:51,453: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 17:20:51,490: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 17:20:55,065: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:20:55] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:20:58,967: INFO houses.py:25 hit redis area_info
+2019-04-01 17:20:58,977: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:20:58] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:21:04,489: INFO houses.py:25 hit redis area_info
+2019-04-01 17:21:04,500: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:21:04] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:21:04,671: INFO houses.py:25 hit redis area_info
+2019-04-01 17:21:04,684: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:21:04] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:21:04,849: INFO houses.py:25 hit redis area_info
+2019-04-01 17:21:04,868: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:21:04] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:21:05,028: INFO houses.py:25 hit redis area_info
+2019-04-01 17:21:05,043: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:21:05] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:21:05,223: INFO houses.py:25 hit redis area_info
+2019-04-01 17:21:05,237: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:21:05] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:26:22,687: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\models.py', reloading
+2019-04-01 17:26:22,763: INFO _internal.py:97  * Restarting with stat
+2019-04-01 17:26:27,259: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 17:26:27,358: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 17:26:27,397: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 17:26:59,772: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:26:59] "GET /my.html HTTP/1.1" 304 -
+2019-04-01 17:27:00,292: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:00] "GET /api/v1.0/user HTTP/1.1" 200 -
+2019-04-01 17:27:00,332: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:00] "GET /api/v1.0/user HTTP/1.1" 200 -
+2019-04-01 17:27:00,355: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:00] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:27:02,908: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:02] "GET /myhouse.html HTTP/1.1" 200 -
+2019-04-01 17:27:03,010: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:03] "GET /static/css/ihome/myhouse.css HTTP/1.1" 200 -
+2019-04-01 17:27:03,046: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:03] "GET /static/js/ihome/myhouse.js HTTP/1.1" 200 -
+2019-04-01 17:27:07,098: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:07] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:27:07,188: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:07] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:27:07,211: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:27:07] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:38:45,967: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:45] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:38:45,990: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:45] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:38:46,066: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:38:46,118: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:38:46,142: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:38:46,167: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:38:46,190: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:38:46,216: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:38:46,239: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:38:46,266: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:38:46,312: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:38:46,338: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:38:46,365: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:38:46,388: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:38:46,410: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:38:46,477: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:38:46,642: INFO houses.py:25 hit redis area_info
+2019-04-01 17:38:46,651: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:38:46,786: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:38:46] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:40:50,553: INFO houses.py:25 hit redis area_info
+2019-04-01 17:40:50,562: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:40:50] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:42:08,219: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:42:08,252: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:42:08,351: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:42:08,390: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:42:08,436: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:42:08,463: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:42:08,493: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:42:08,519: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:42:08,546: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:08,572: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:08,598: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:08,665: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:08,688: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:08,710: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:42:08,730: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:42:08,755: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:42:08,872: INFO houses.py:25 hit redis area_info
+2019-04-01 17:42:08,884: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:42:08,987: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:08] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:42:15,410: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:15] "GET /newhouse.html HTTP/1.1" 304 -
+2019-04-01 17:42:15,694: INFO houses.py:25 hit redis area_info
+2019-04-01 17:42:15,703: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:15] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:42:15,907: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:15] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:42:42,266: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:42:42,289: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:42:42,381: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:42:42,417: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:42:42,450: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:42:42,470: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:42:42,493: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:42:42,513: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:42:42,535: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:42,558: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:42,579: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:42,605: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:42,628: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:42:42,651: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:42:42,678: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:42:42,721: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:42:42,838: INFO houses.py:25 hit redis area_info
+2019-04-01 17:42:42,848: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:42] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:42:43,006: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:42:43] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:43:23,871: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:23] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:43:23,976: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:23] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:43:24,045: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:43:24,075: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:43:24,112: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:43:24,141: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:43:24,164: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:43:24,190: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:43:24,223: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:43:24,247: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:43:24,273: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:43:24,306: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:43:24,346: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:43:24,368: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:43:24,391: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:43:24,532: INFO houses.py:25 hit redis area_info
+2019-04-01 17:43:24,540: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:43:24,657: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:43:24] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:44:18,651: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:44:18,714: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:44:18,778: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:44:18,809: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:44:18,835: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:44:18,871: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:44:18,894: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:44:18,917: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:18,941: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:18,963: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:18,983: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:18] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:19,007: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:19] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:19,030: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:19] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:44:19,055: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:19] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:44:19,075: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:19] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:44:19,183: INFO houses.py:25 hit redis area_info
+2019-04-01 17:44:19,196: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:19] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:44:19,305: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:19] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:44:30,049: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:30] "GET /newhouse.html HTTP/1.1" 304 -
+2019-04-01 17:44:30,322: INFO houses.py:25 hit redis area_info
+2019-04-01 17:44:30,339: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:30] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:44:30,512: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:30] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:44:33,890: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:33] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:44:34,000: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:33] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:44:34,026: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:44:34,055: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:44:34,082: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:44:34,112: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:44:34,134: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:44:34,154: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:34,180: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:34,203: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:34,227: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:34,250: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:44:34,276: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:44:34,302: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:44:34,325: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:44:34,448: INFO houses.py:25 hit redis area_info
+2019-04-01 17:44:34,459: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:44:34,585: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:44:34] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:46:20,611: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:46:20,707: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:46:20,760: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:46:20,789: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:46:20,812: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:46:20,844: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:46:20,868: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:46:20,891: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:20,917: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:20,946: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:20,971: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:20,994: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:20] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:21,017: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:21] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:46:21,039: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:21] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:46:21,073: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:21] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:46:21,197: INFO houses.py:25 hit redis area_info
+2019-04-01 17:46:21,217: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:21] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:46:21,365: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:21] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:46:39,436: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:46:39,463: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:46:39,549: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:46:39,622: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:46:39,654: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:46:39,700: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:46:39,720: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:46:39,740: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:46:39,759: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:39,783: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:39,809: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:39,835: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:39,858: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:46:39,882: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:46:39,907: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:46:39,933: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:46:40,040: INFO houses.py:25 hit redis area_info
+2019-04-01 17:46:40,055: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:40] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:46:40,168: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:46:40] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:48:27,466: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:48:27,490: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:48:27,561: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:48:27,596: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:48:27,703: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:48:27,727: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:48:27,750: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:48:27,769: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:48:27,789: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:48:27,813: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:48:27,838: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:48:27,859: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:48:27,881: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:48:27,904: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:48:27,926: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:48:27,950: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:27] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:48:28,063: INFO houses.py:25 hit redis area_info
+2019-04-01 17:48:28,072: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:28] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:48:28,194: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:48:28] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:49:21,390: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:49:21,417: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:49:21,494: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:49:21,522: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:49:21,552: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:49:21,573: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:49:21,599: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:49:21,624: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:49:21,647: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:49:21,684: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:49:21,707: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:49:21,729: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:49:21,753: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:49:21,776: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:49:21,798: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:49:21,821: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:49:21,969: INFO houses.py:25 hit redis area_info
+2019-04-01 17:49:21,977: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:21] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:49:22,118: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:49:22] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:51:43,017: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:51:43,046: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:51:43,144: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:51:43,187: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:51:43,213: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:51:43,243: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:51:43,272: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:51:43,296: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:51:43,319: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:51:43,348: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:51:43,377: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:51:43,405: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:51:43,440: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:51:43,494: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:51:43,522: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:51:43,551: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:51:43,664: INFO houses.py:25 hit redis area_info
+2019-04-01 17:51:43,674: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:51:43,783: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:51:43] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:52:06,184: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:52:06,299: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:52:06,342: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:52:06,372: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:52:06,400: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:52:06,428: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:52:06,463: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:52:06,503: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:06,542: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:06,571: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:06,608: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:06,647: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:06,696: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:52:06,732: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:52:06,762: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:52:06,796: INFO houses.py:25 hit redis area_info
+2019-04-01 17:52:06,806: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:52:06,983: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:06] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:52:25,907: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:25] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:52:26,013: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:52:26,038: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:52:26,059: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:52:26,082: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:52:26,105: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:52:26,124: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:52:26,145: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:26,171: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:26,194: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:26,219: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:26,246: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:52:26,273: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:52:26,298: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:52:26,326: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:52:26,378: INFO houses.py:25 hit redis area_info
+2019-04-01 17:52:26,388: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:52:26,523: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:52:26] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:53:12,838: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:12] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:53:12,920: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:12] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:53:12,956: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:12] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:53:12,984: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:12] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:53:13,007: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:53:13,032: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:53:13,053: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:53:13,078: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:13,104: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:13,128: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:13,154: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:13,177: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:13,200: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:53:13,223: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:53:13,250: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:53:13,359: INFO houses.py:25 hit redis area_info
+2019-04-01 17:53:13,377: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:53:13,543: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:13] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:53:34,447: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:34] "GET /newhouse.html HTTP/1.1" 304 -
+2019-04-01 17:53:34,740: INFO houses.py:25 hit redis area_info
+2019-04-01 17:53:34,750: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:34] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:53:34,924: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:34] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:53:35,901: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:35] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:53:36,003: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:53:36,035: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:53:36,061: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:53:36,085: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:53:36,108: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:53:36,131: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:53:36,153: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:36,177: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:36,200: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:36,237: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:36,266: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:53:36,290: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:53:36,312: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:53:36,339: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:53:36,417: INFO houses.py:25 hit redis area_info
+2019-04-01 17:53:36,430: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:53:36,631: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:53:36] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:54:04,263: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:54:04,361: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:54:04,398: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:54:04,421: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:54:04,444: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:54:04,467: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:54:04,487: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:54:04,506: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:54:04,538: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:54:04,562: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:54:04,588: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:54:04,615: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:54:04,640: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:54:04,673: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:54:04,704: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:54:04,750: INFO houses.py:25 hit redis area_info
+2019-04-01 17:54:04,769: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:54:04,994: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:54:04] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:55:10,726: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:10] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:55:10,757: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:10] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:55:10,898: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:10] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:55:10,933: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:10] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:55:10,969: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:10] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:55:11,000: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:55:11,045: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:55:11,101: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:55:11,167: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:11,226: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:11,263: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:11,302: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:11,328: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:11,358: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:55:11,382: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:55:11,457: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:55:11,591: INFO houses.py:25 hit redis area_info
+2019-04-01 17:55:11,601: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:55:11,766: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:11] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:55:48,487: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:55:48,513: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:55:48,585: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:55:48,631: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:55:48,681: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:55:48,710: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:55:48,743: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:55:48,789: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:55:48,823: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:48,862: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:48,888: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:48,921: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:48,964: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:55:48,990: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:48] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:55:49,017: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:49] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:55:49,059: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:49] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:55:49,128: INFO houses.py:25 hit redis area_info
+2019-04-01 17:55:49,148: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:49] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:55:49,311: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:49] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:55:51,226: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:51] "GET /newhouse.html HTTP/1.1" 304 -
+2019-04-01 17:55:51,526: INFO houses.py:25 hit redis area_info
+2019-04-01 17:55:51,549: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:51] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:55:51,780: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:55:51] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:56:33,023: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:56:33,053: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:56:33,151: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:56:33,177: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:56:33,253: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:56:33,299: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:56:33,325: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:56:33,351: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:56:33,377: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:33,408: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:33,436: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:33,473: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:33,505: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:33,529: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:56:33,571: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:56:33,624: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:56:33,729: INFO houses.py:25 hit redis area_info
+2019-04-01 17:56:33,763: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:56:33,930: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:33] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:56:43,657: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:56:43,759: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:56:43,795: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:56:43,825: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:56:43,854: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:56:43,887: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:56:43,918: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:56:43,944: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:43,973: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:43] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:44,311: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:44,336: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:44,364: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:56:44,384: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:56:44,411: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:56:44,434: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:56:44,473: INFO houses.py:25 hit redis area_info
+2019-04-01 17:56:44,483: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:56:44,578: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:56:44] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:57:01,848: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:01] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:57:01,933: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:01] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:01,989: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:01] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:02,032: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:57:02,059: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:02,089: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:57:02,114: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:57:02,141: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:02,171: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:02,200: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:02,230: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:02,260: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:02,308: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:57:02,342: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:57:02,375: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:57:02,470: INFO houses.py:25 hit redis area_info
+2019-04-01 17:57:02,480: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:57:02,605: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:02] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:57:18,605: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:57:18,667: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:18,742: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:18,769: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:57:18,795: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:18,822: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:57:18,849: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:57:18,875: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:18,904: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:18,928: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:18,961: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:18,990: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:18] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:19,016: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:19] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:57:19,042: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:19] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:57:19,073: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:19] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:57:19,213: INFO houses.py:25 hit redis area_info
+2019-04-01 17:57:19,223: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:19] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:57:19,351: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:19] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:57:58,007: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:57:58,032: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:57:58,091: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:58,128: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:58,161: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:57:58,196: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:57:58,224: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:57:58,255: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:57:58,285: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:58,323: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:58,362: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:58,410: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:58,453: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:57:58,486: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:57:58,513: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:57:58,558: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:57:58,631: INFO houses.py:25 hit redis area_info
+2019-04-01 17:57:58,651: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:57:58,789: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:57:58] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:58:13,772: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:13] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:58:13,834: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:13] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:58:13,907: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:13] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:58:13,936: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:13] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:58:13,966: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:13] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:58:13,997: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:13] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:58:14,023: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:58:14,049: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:14,085: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:14,114: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:14,140: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:14,165: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:14,193: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:58:14,217: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:58:14,243: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:58:14,361: INFO houses.py:25 hit redis area_info
+2019-04-01 17:58:14,375: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:58:14,476: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:14] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:58:41,867: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:41] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:58:41,974: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:41] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:58:42,002: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:58:42,026: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:58:42,049: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:58:42,088: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:58:42,108: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:58:42,142: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:42,167: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:42,190: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:42,220: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:42,246: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:58:42,269: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:58:42,296: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:58:42,329: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:58:42,431: INFO houses.py:25 hit redis area_info
+2019-04-01 17:58:42,446: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:58:42,608: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:58:42] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:59:03,963: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:03] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:59:04,082: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:04,122: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:04,153: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:59:04,178: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:04,207: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:59:04,233: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:59:04,266: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:04,301: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:04,332: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:04,371: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:04,401: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:04,428: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:59:04,457: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:59:04,492: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:59:04,572: INFO houses.py:25 hit redis area_info
+2019-04-01 17:59:04,599: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:59:04,753: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:04] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:59:17,388: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:59:17,503: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:17,552: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:17,595: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:59:17,618: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:17,653: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:59:17,680: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:59:17,698: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:17,726: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:17,750: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:17,776: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:17,803: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:17,825: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:59:17,848: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:59:17,877: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:59:17,970: INFO houses.py:25 hit redis area_info
+2019-04-01 17:59:17,983: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:17] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:59:18,101: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:18] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 17:59:54,434: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:59:54,467: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 17:59:54,549: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:54,601: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 17:59:54,625: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:54,655: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 17:59:54,684: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 17:59:54,713: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 17:59:54,740: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:54,766: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:54,789: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:54,821: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:54,848: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 17:59:54,871: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 17:59:54,907: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 17:59:54,940: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 17:59:55,029: INFO houses.py:25 hit redis area_info
+2019-04-01 17:59:55,051: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:55] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 17:59:55,236: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 17:59:55] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-01 18:01:14,453: INFO _internal.py:97  * Detected change in 'D:\\Panda\\pycode\\flask_ihome\\ihome\\api_1_0\\houses.py', reloading
+2019-04-01 18:01:14,545: INFO _internal.py:97  * Restarting with stat
+2019-04-01 18:01:18,655: WARNING _internal.py:97  * Debugger is active!
+2019-04-01 18:01:18,742: INFO _internal.py:97  * Debugger PIN: 258-380-938
+2019-04-01 18:01:18,780: INFO _internal.py:97  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-04-01 18:01:32,792: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:32] "GET /newhouse.html HTTP/1.1" 200 -
+2019-04-01 18:01:32,901: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:32] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2019-04-01 18:01:32,980: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:32] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+2019-04-01 18:01:33,013: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/css/reset.css HTTP/1.1" 200 -
+2019-04-01 18:01:33,045: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+2019-04-01 18:01:33,071: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+2019-04-01 18:01:33,099: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/css/ihome/newhouse.css HTTP/1.1" 200 -
+2019-04-01 18:01:33,122: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2019-04-01 18:01:33,144: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+2019-04-01 18:01:33,165: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2019-04-01 18:01:33,188: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+2019-04-01 18:01:33,213: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+2019-04-01 18:01:33,236: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/js/ihome/newhouse.js HTTP/1.1" 200 -
+2019-04-01 18:01:33,259: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+2019-04-01 18:01:33,286: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2019-04-01 18:01:33,734: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /api/v1.0/areas HTTP/1.1" 200 -
+2019-04-01 18:01:33,753: INFO _internal.py:97 127.0.0.1 - - [01/Apr/2019 18:01:33] "GET /favicon.ico HTTP/1.1" 200 -

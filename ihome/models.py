@@ -4,7 +4,7 @@ from datetime import datetime
 
 import constants
 from . import db
-from werkzeug.security import generate_password_hash,check_password_hash
+from werkzeug.security import generate_password_hash, check_password_hash
 
 
 class BaseModel(object):
@@ -39,8 +39,8 @@ class User(BaseModel, db.Model):
 
     # def generate_password_hash(self,origin_pwd):
     #     self.password_hash = generate_password_hash(origin_pwd)
-    def check_password_hash(self,origin_pwd):
-        return check_password_hash(self.password_hash,origin_pwd)
+    def check_password_hash(self, origin_pwd):
+        return check_password_hash(self.password_hash, origin_pwd)
 
     def to_dict(self):
         """将对象转换为字典数据"""
@@ -71,6 +71,13 @@ class Area(BaseModel, db.Model):
     id = db.Column(db.Integer, primary_key=True)  # 区域编号
     name = db.Column(db.String(32), nullable=False)  # 区域名字
     houses = db.relationship("House", backref="area")  # 区域的房屋
+
+    def to_dict(self):
+        d = {
+            'aid': self.id,
+            'aname': self.name
+        }
+        return d
 
 
 # 房屋设施表，建立房屋与设施的多对多关系
