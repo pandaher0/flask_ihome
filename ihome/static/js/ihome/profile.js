@@ -37,7 +37,10 @@ $(function () {
                 'X-CSRFToken': getCookie('csrf_token')
             },
             success: function (resp) {
-                if (resp.errno == 0) {
+                if (resp.errno == '4101'){
+                    location.href = '/login.html'
+                }
+                else if (resp.errno == 0) {
                     var avatar_url = resp.data.avatar_url;
                     $('#user-avatar').attr('src', avatar_url)
                 } else {

@@ -47,6 +47,7 @@ class CCP(object):
         #     else:
         #         print '%s:%s' % (k, v)
         status_code = result.get('statusCode')
+        print(result)
         if status_code == '000000':
             return 0
         else:
