@@ -20,7 +20,7 @@ function logout() {
     });
 }
 
-$(document).ready(function(){
+$(function(){
     $.get('/api/v1.0/user',function (resp) {
         if (resp.errno=='0'){
             $('.menu-text #user-name').html(resp.data.name);
