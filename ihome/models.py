@@ -112,15 +112,15 @@ class House(BaseModel, db.Model):
     facilities = db.relationship("Facility", secondary=house_facility)  # 房屋的设施
     images = db.relationship("HouseImage")  # 房屋的图片
     orders = db.relationship("Order", backref="house")  # 房屋的订单
-    
+
     def to_basic_dict(self):
-        d={
-            'house_id':self.id,
-            'title':self.title,
-            'area_id':self.area.name,
-            'price':'%.2f' % float(self.price/100),
-            'create_time':self.create_time.strftime('%Y-%m-%d'),
-            'index_url':constants.QINIU_URL_DOMAIN+self.index_image_url,
+        d = {
+            'house_id': self.id,
+            'title': self.title,
+            'area_id': self.area.name,
+            'price': '%.2f' % float(self.price / 100),
+            'create_time': self.create_time.strftime('%Y-%m-%d'),
+            'index_url': constants.QINIU_URL_DOMAIN + self.index_image_url,
             "room_count": self.room_count,
             "order_count": self.order_count,
             "address": self.address,
@@ -136,14 +136,14 @@ class House(BaseModel, db.Model):
             "user_name": self.user.name,
             "user_avatar": constants.QINIU_URL_DOMAIN + self.user.avatar_url if self.user.avatar_url else "",
             "title": self.title,
-            "price": '%.2f' % float(self.price/100),
+            "price": '%.2f' % float(self.price / 100),
             "address": self.address,
             "room_count": self.room_count,
             "acreage": self.acreage,
             "unit": self.unit,
             "capacity": self.capacity,
             "beds": self.beds,
-            "deposit": '%.2f' % float(self.deposit/100),
+            "deposit": '%.2f' % float(self.deposit / 100),
             "min_days": self.min_days,
             "max_days": self.max_days,
         }
@@ -162,7 +162,7 @@ class House(BaseModel, db.Model):
 
         # 评论信息
         comments = []
-        orders = Order.query.filter(Order.house_id == self.id, Order.status == "COMPLETE", Order.comment != None)\
+        orders = Order.query.filter(Order.house_id == self.id, Order.status == "COMPLETE", Order.comment != None) \
             .order_by(Order.update_time.desc()).limit(constants.HOUSE_DETAIL_COMMENT_DISPLAY_COUNTS)
         for order in orders:
             comment = {
