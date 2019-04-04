@@ -113,6 +113,7 @@ def get_user_auth():
 
     if user is None:
         return jsonify(errno=RET.NODATA, errmsg="无效操作")
+    print user.auth_to_dict()
 
     return jsonify(errno=RET.OK, errmsg="OK", data=user.auth_to_dict())
 
@@ -144,4 +145,4 @@ def set_user_auth():
         current_app.logger.error(e)
         return jsonify(errno=RET.DBERR, msg=u'存储失败')
 
-    return jsonify(errno=RET.OK, msg='ok')
+    return jsonify(errno=RET.OK, msg='ok',data={'real_name':real_name,'id_card':id_card})

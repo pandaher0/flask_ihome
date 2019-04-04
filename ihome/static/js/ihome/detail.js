@@ -14,7 +14,7 @@ function decodeQuery() {
 $(document).ready(function () {
     var querydata = decodeQuery();
     var house_id = querydata['id'];
-    $.get('/api/v1.0/house/' + house_id, function (resp) {
+    $.get('/api/v1.0/houses/' + house_id, function (resp) {
         if (resp.errno == 0) {
             var house = resp.data.house;
             var user = resp.data.user;
@@ -23,13 +23,20 @@ $(document).ready(function () {
                 house.max_days = '无限制';
             }
             console.log(house);
-            $(".swiper-container").html(template("house-image-tmpl", {img_urls:img_urls, price:house.price}));
+            $(".swiper-container").html(template("house-image-tmpl", {img_urls: img_urls, price: house.price}));
             $('.detail-con').html(template('house_detail_tmpl', {'house': house}));
 
-
+            console.log(house.user_id)
+            console.log(user.user_id)
             if (house.user_id == user.user_id) {
+                console.log(house.user_id)
+                console.log(user.user_id)
                 $('.book-house').hide()
             }
+            else {
+                $('.book-house').show()
+            }
+
         }
 
 

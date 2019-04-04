@@ -5,6 +5,7 @@ from datetime import datetime
 import constants
 from . import db
 from werkzeug.security import generate_password_hash, check_password_hash
+from datetime import datetime
 
 
 class BaseModel(object):
@@ -219,3 +220,32 @@ class Order(BaseModel, db.Model):
         ),
         default="WAIT_ACCEPT", index=True)
     comment = db.Column(db.Text)  # 订单的评论信息或者拒单原因
+
+    def to_dict(self):
+        d = {
+            'order_id': self.id,
+            'user_id': self.user_id,
+            'house_id': self.house_id,
+            'begin_date': datetime.strftime(self.begin_date, '%Y-%m-%d'),
+            'end_date': datetime.strftime(self.end_date, '%Y-%m-%d'),
+            'days': self.days,
+            'house_price': '%.2f' % float(self.house_price / 100),
+            'amount': '%.2f' % float(self.amount / 100),
+            'status': self.status,
+            'ctime': datetime.strftime(self.create_time, '%Y-%m-%d'),
+            'title': self.house.title,
+            'img_url': constants.QINIU_URL_DOMAIN + self.house.index_image_url,
+            'comment':self.comment
+        }
+        # status = {
+        #     "WAIT_ACCEPT": 0,
+        #     "WAIT_PAYMENT": 1,
+        #     "PAID": 2,
+        #     "WAIT_COMMENT": 3,
+        #     "COMPLETE": 4,
+        #     "CANCELED": 5,
+        #     "REJECTED": 6
+        # }
+        # d['status'] = status[self.status]
+
+        return d
