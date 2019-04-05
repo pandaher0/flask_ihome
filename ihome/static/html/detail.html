@@ -136,19 +136,19 @@
             <ul class="house-comment-list">
                 {{ each house.comments as comment}}
                 <li>
-                    <p>用户名<span class="fr">{{comment.ctime}}</span></p>
+                    <p>{{comment.user_name}}<span class="fr">{{comment.ctime}}</span></p>
                     <p>{{comment.comment}}</p>
                 </li>
                 {{/each}}
             </ul>
         </div>
         {{/if}}
-
+        <a class="book-house" href="/booking.html?hid={{house.hid}}">即刻预定</a>
     </script>
 
 
 </div>
-<a class="book-house" href="">即刻预定</a>
+
 <div class="footer">
     <p><span><i class="fa fa-copyright"></i></span>爱家租房&nbsp;&nbsp;享受家的温馨</p>
 </div>

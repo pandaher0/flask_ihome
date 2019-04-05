@@ -48,7 +48,7 @@ def get_area_info():
     return resp_json, 200, {'Content-Type': 'application/json'}
 
 
-@api.route('/house/info', methods=['POST'])
+@api.route('/houses/info', methods=['POST'])
 @login_required
 def save_house_info():
     """
@@ -150,7 +150,7 @@ def save_house_info():
     return jsonify(errno=RET.OK, msg='创建成功', data={'house_id': house.id})
 
 
-@api.route('/house/image', methods=['POST'])
+@api.route('/houses/image', methods=['POST'])
 @login_required
 def save_house_image():
     # 接受参数
@@ -256,7 +256,7 @@ def get_index_house():
     return '{"errno":"0", "msg":"成功", "data":%s}' % house_json, 200, {'Content-Type': 'application/json'}
 
 
-@api.route('/house/<int:house_id>', methods=['GET'])
+@api.route('/houses/<int:house_id>', methods=['GET'])
 def get_house_detail(house_id):
     """获取房屋详情"""
     # 前端在房屋详情页面展示时，如果浏览页面的用户不是该房屋的房东，则展示预定按钮，否则不展示，

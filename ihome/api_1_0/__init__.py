@@ -12,4 +12,5 @@ api = Blueprint('api_1_0', __name__)
 # passport 注册、登录
 # profile 个人信息页面、上传头像、修改昵称、实名认证
 # houses 房屋相关
-from . import demo, verify_code, passport, profile, houses
+# order 订单相关
+from . import demo, verify_code, passport, profile, houses, order

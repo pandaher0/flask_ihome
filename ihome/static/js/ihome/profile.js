@@ -68,6 +68,7 @@ $(function () {
             success: function (resp) {
                 if (resp.errno == 0) {
                     alert('修改成功');
+                    location.reload()
                 } else if (resp.errno == 4001) {
                     $('.error-msg i').html(resp.msg).show()
                 }else if (resp.errno == 4001){

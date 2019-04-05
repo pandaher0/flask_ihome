@@ -42,7 +42,7 @@ $(document).ready(function () {
         data.facility = facility;
 
         $.ajax({
-            url: "/api/v1.0/house/info",
+            url: "/api/v1.0/houses/info",
             type: 'post',
             contentType: 'application/json',
             data: JSON.stringify(data),
@@ -72,7 +72,7 @@ $(document).ready(function () {
         // 利用jquery.form.min.js提供的ajaxsubmit对表单进行异步提交
 
         $(this).ajaxSubmit({
-            url: '/api/v1.0/house/image',
+            url: '/api/v1.0/houses/image',
             type: 'post',
             dataType: 'json',
             headers: {
